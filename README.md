@@ -23,7 +23,7 @@ A player wins the game when the opponent cannot make a move. In most cases, this
 ## Installation and use
 
 ```
-$ git clone https://github.com/amirphp7/checkers-ai-react.git
+$ git clone https://github.com/amirooz/checkers-ai-react.git
 ```
 ```
 $ cd checkers-ai-react
